@@ -1,0 +1,1 @@
+cmd_/home/liveuser/cs4023/15147193/project_2/project2.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/liveuser/cs4023/15147193/project_2/project2.ko /home/liveuser/cs4023/15147193/project_2/project2.o /home/liveuser/cs4023/15147193/project_2/project2.mod.o
